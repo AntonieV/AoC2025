@@ -1,9 +1,10 @@
 *
 !.gitignore
-!AoC2024_1-4.ipynb
-!AoC2024_5-8.ipynb
-!AoC2024_9-12.ipynb
-!utils.ipynb
+!python/*
+!python/AoC2024_1-4.ipynb
+!python/AoC2024_5-8.ipynb
+!python/AoC2024_9-12.ipynb
+!python/utils.ipynb
 !LICENSE
 !README.md
 
