@@ -1,6 +1,6 @@
 *
 !.gitignore
-!python/*
+!python
 !python/AoC2024_1-4.ipynb
 !python/AoC2024_5-8.ipynb
 !python/AoC2024_9-12.ipynb
